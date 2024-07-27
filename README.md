@@ -17,6 +17,8 @@
 
 * Momentum Contrast
 
-  * 【ICCV】CTP: Towards Vision-Language Continual Pretraining via Compatible Momentum Contrast and Topology Preservation.
+  * 【ICCV】CTP: Towards Vision-Language Continual Pretraining via Compatible Momentum Contrast and Topology Preservation. [[PDF]](https://arxiv.org/pdf/2308.07146)
 
+* Distillation
+  * 【ICML】Continual Vision-Language Representation Learning with Off-Diagonal Information. [[PDF]](https://arxiv.org/pdf/2305.07437)
    
